@@ -1,0 +1,23 @@
+.header{
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color:rgba(172, 171, 171, 0.473); 
+    flex-flow: nowrap;
+}
+.logo{
+    font-weight:800;
+    float: left;
+    padding-left: 15px;
+}
+.userlogin{
+    font-weight: 700;
+    font-size: 14px;
+    float: right;
+    cursor: pointer;
+    padding-right: 15px;
+}
+.userlogin span{
+    margin: 10px;
+}
