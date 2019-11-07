@@ -17,7 +17,7 @@
 
 .modalwrapper form textarea{
     display: block;
-    margin: 20px auto;
+    margin-top: 20px;
 }
 
 .modalwrapper form input{
@@ -35,7 +35,7 @@
 .modalwrapper .discussiontitle{
     margin: 10px 0 0;
     padding: 10px;
-    border: none;
+    border: 1px solid gray;
     outline: none;
     display: inline-block;
     background-color: none;

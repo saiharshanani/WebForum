@@ -8,7 +8,7 @@ const signInStyle = {
     textDecoration: 'none',
     display: 'inline-block',
     cursor: 'pointer',
-    height: '25px'
+    height: '30px'
 };
 
 const SignIn = () => {
