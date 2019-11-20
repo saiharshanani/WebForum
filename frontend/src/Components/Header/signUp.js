@@ -23,5 +23,4 @@ const SignUp = ({ isShowing, hide }) => isShowing ? ReactDOM.createPortal(
         </div>
     </React.Fragment>,document.body
 ):null;
-
 export default SignUp;
